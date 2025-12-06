@@ -51,6 +51,7 @@ jobs:
           haxelib install linc_luajit
           haxelib install akifox-asynchttp
           haxelib install hxp
+          haxelib install hxcodec
           haxelib git faxe https://github.com/uhrobots/faxe
           haxelib git polymod https://github.com/larsiusprime/polymod
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
