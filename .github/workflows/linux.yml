@@ -55,7 +55,8 @@ jobs:
           haxelib git faxe https://github.com/uhrobots/faxe
           haxelib git polymod https://github.com/larsiusprime/polymod
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
-          haxelib git hscript-yoshiengine https://githubhaxelib git discord_rpc_yce https://github.com/YoshiCrafter29/linc_discord-rpc
+          haxelib git hscript-yoshiengine https://github
+          haxelib git discord_rpc_yce https://github.com/YoshiCrafter29/linc_discord-rpc
           haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
           haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit
           haxelib git flixel-textureatlas-yoshiengine https://github.com/YoshiCrafter29/Flixel-TextureAtlas-YoshiCrafterEngine
